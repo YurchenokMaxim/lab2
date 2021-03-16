@@ -18,11 +18,11 @@
   
   *Визуализация метрики качества.*
    
-  ![график 2.1]()
+  ![график 2.1](https://github.com/YurchenokMaxim/lab2/blob/main/epoch_categorical_accuracy1.svg)
   
   *Функция потерь*
    
-  ![график 2.2]()
+  ![график 2.2](https://github.com/YurchenokMaxim/lab2/blob/main/epoch_loss1.svg)
   
   
   
